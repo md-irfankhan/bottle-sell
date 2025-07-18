@@ -17,5 +17,9 @@ const addLS=(id)=>{
     saveLS(cart);
     // console.log(cart)
 }
-
-export {addLS,getLS};
+const removeLS=(id)=>{
+    const cart =getLS();
+    const remaining=cart.filter(idx=>idx!=id)
+    saveLS(remaining);
+}
+export {addLS,getLS,removeLS};
