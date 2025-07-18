@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+.all-cards{
+  display:grid ;
+  grid-template-columns: repeat(3,1fr);
+  gap: 5px;
+}
+@media screen and (max-width: 600px) {
+  .all-cards{
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  
+}

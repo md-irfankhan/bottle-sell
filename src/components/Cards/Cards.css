@@ -1,0 +1,22 @@
+.card-img{
+    height: 200px;
+    width: 300px;
+}
+.card-text{
+    text-align: left;
+    
+}
+
+.card-text p{
+    padding: 0;
+    margin:0;
+}
+.card-text p span{
+    font-weight: 700;
+}
+.cards{
+    padding: 20px ;
+    border-radius: 5px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
