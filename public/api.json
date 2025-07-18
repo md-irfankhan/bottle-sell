@@ -1,0 +1,352 @@
+[
+    {
+        "bottle_id": "B0001",
+        "name": "HydroGlass 500ml",
+        "brand": "EcoSip",
+        "material": "Glass",
+        "volume_ml": 500,
+        "color": "Blue",
+        "price_usd": 12.99,
+        "image_url": "data:image/jpeg;base64,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"
+    },
+    {
+        "bottle_id": "B0002",
+        "name": "SteelSip Classic",
+        "brand": "SteelFlow",
+        "material": "Stainless Steel",
+        "volume_ml": 750,
+        "color": "Silver",
+        "price_usd": 15.99,
+        "image_url": "data:image/jpeg;base64,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"
+    },
+    {
+        "bottle_id": "B0003",
+        "name": "ChillMate 1L",
+        "brand": "CoolStream",
+        "material": "Plastic",
+        "volume_ml": 1000,
+        "color": "Green",
+        "price_usd": 9.49,
+        "image_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQAlAMBIgACEQEDEQH/xAAcAAEBAQEAAwEBAAAAAAAAAAAABQYEAQMHAgj/xAA9EAACAQIEAgUHCQkBAAAAAAAAAQIDBAUGETMhshIxcXOBExQiMmGRsSMkJTQ1QVFickJTY4OSk6HB0RX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/APuIAAAAAAAAB4fUB6Kl7b04126ifkI9Koo8eitNff7CDg2e8Cxm5lb2VS4c48G5284r36EXIF3cXzzF55WnWULuqoqb1UV7D5jleTWdpwUpKPnE00notOIH9GQnGevQkno9Hp9zP0ZzLM5PGMci3wjUpaL+WjRgAAAAAAAAAAAAAAAAAAAPD10enWeQ+C4gfMcq4TjOH/8ArwpYnbdKrWqur814J66NpuZn8Iyi6eMVr2jilWNwqjknK3hKOvZwN7aRlUs766pT6MKlabj+ZN6/8J1in5aWjS4/gaxFjJNC+jdYvc31xQrKrVhCHkqTg10Y8deLT611aGqIWVpJee0m/TVZT8Gkl8GXTKgAAAAAAAAAAAAAAAAAAEvMl35phNZxelSp8lDTr1lw+GrKhl8zVHdYxY2EXwj6c+1vRf794CdNWuCW9FLRuPSaItk9Ksu0u49JL0F1RjoZ6zfyrNIr4bX80xyi2/QuI+Sl2/d/nh4mvMHiSl5uqlPhUptSi/auJtrK4jdWlG4h6tWCmvFEpHuABFAAAAAAAAAAAAAAAAeGZC0l53m66qvioTcV7FFafE2Biss8cZu9f3lTmLEdWNtupMh2m6WcZ3Jka13SijXj07aS9hayfWdTBo02+NGpKHhrqviSHsS7DtyR9XvV/HXKhSNMADKgAAAAAAAAAAAAAAABiss/bF3+upzG1MVlj7Zu+8qcxYOjGt2oRbXdLWNbsyLa7pUVHsPsO3JGze98uVHE9h9h25I2b3vlyoUjTAAyoAAAAAAAAAAAAAAAAYvLH2vd95U5mbMxuWV9LXX66nMWD241uzI1ruFnG96oRbXc8SoqvYfYduSdm975cqOJbL7DvyXtX3fLlQpGkABlQAAAAAAAAAAAAAAAAx2Wl9KXXeVOY2JkMtL6Sun+epzFg843vVCLbbhZxveqEa23Coqw2yhkzbvu/XKifD1eBRyetIX3fLlQpGiABlQAAAAAAAAAAAAAAAAyWW/r913lTmNaZPLi+fXP66nMWD8Y3vzI1tuFnHN+ZGt/X8SorUvVKWUlpG+75cqJlHqRUyp1XverlQpF8AGVAAAAAAAAAAAAAAAADFYTdysr+5jWoVG/KzXo6P8AaZtGZbHcFxmpeVrnC6lo1NqUadXWLTXXxWuuvgWDjxa5jUnOahUXsdNkm2qqVRpQqf22VcTt8fdWjKjhDqJtKr0a1PRfi1q1qfi5ssYp1KKs8JnVU5fKvpwj0F4viVHtpVEo+rP+hr4lbKnSdO8m49GMqyS1fXpFEmthmY7m90pW1rQtYwSjKtV4uX46R1NPg9lOww+lb1pwqVI6uc4R0Um2S0juABFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//2Q=="
+    },
+    {
+        "bottle_id": "B0004",
+        "name": "AquaFlex 600ml",
+        "brand": "FlexiHydrate",
+        "material": "Glass",
+        "volume_ml": 600,
+        "color": "Clear",
+        "price_usd": 13.79,
+        "image_url": "https://plus.unsplash.com/premium_photo-1681154819686-43fcc4dc4df3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0005",
+        "name": "ThermoGuard 800ml",
+        "brand": "ThermaFlow",
+        "material": "Stainless Steel",
+        "volume_ml": 800,
+        "color": "Black",
+        "price_usd": 17.25,
+        "image_url": "https://plus.unsplash.com/premium_photo-1681284938413-ea2c090c6d14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0011",
+        "name": "StreamLine 550ml",
+        "brand": "FlowForge",
+        "material": "Glass",
+        "volume_ml": 550,
+        "color": "Amber",
+        "price_usd": 14.25,
+        "image_url": "https://images.unsplash.com/photo-1591704951890-0862b2e98acb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0012",
+        "name": "CoolCanister 700ml",
+        "brand": "ChromaHydrate",
+        "material": "Plastic",
+        "volume_ml": 700,
+        "color": "Lime",
+        "price_usd": 10.75,
+        "image_url": "https://images.unsplash.com/photo-1574670700790-fa314ab37787?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0013",
+        "name": "ZenSteel 800ml",
+        "brand": "BalanceBottle",
+        "material": "Stainless Steel",
+        "volume_ml": 800,
+        "color": "Matte Black",
+        "price_usd": 18.60,
+        "image_url": "https://plus.unsplash.com/premium_photo-1664527305901-db3d4e724d15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0014",
+        "name": "VistaDrop 650ml",
+        "brand": "ClearStream",
+        "material": "Glass",
+        "volume_ml": 650,
+        "color": "Frost",
+        "price_usd": 13.30,
+        "image_url": "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0015",
+        "name": "JetGuard 850ml",
+        "brand": "SteelVelocity",
+        "material": "Stainless Steel",
+        "volume_ml": 850,
+        "color": "Gunmetal",
+        "price_usd": 19.90,
+        "image_url": "https://images.unsplash.com/photo-1544003484-3cd181d17917?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0016",
+        "name": "EcoFusion 500ml",
+        "brand": "PurePlanet",
+        "material": "Recycled Plastic",
+        "volume_ml": 500,
+        "color": "Ocean Blue",
+        "price_usd": 9.85,
+        "image_url": "https://plus.unsplash.com/premium_photo-1681408059522-b83aa9c0a0be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "bottle_id": "B0017",
+        "name": "TurboSip 900ml",
+        "brand": "QuickHydrate",
+        "material": "Aluminum",
+        "volume_ml": 900,
+        "color": "Crimson",
+        "price_usd": 16.40,
+        "image_url": "https://images.unsplash.com/photo-1571059750558-3d869522f707?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "bottle_id": "B0018",
+        "name": "GlowBottle 600ml",
+        "brand": "LumaHydro",
+        "material": "Glass",
+        "volume_ml": 600,
+        "color": "Clear with Gradient",
+        "price_usd": 14.70,
+        "image_url": "https://images.unsplash.com/photo-1625708458528-802ec79b1ed8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "bottle_id": "B0019",
+        "name": "FreezeFlow 1000ml",
+        "brand": "IceStream",
+        "material": "Plastic",
+        "volume_ml": 1000,
+        "color": "Sky Blue",
+        "price_usd": 11.99,
+        "image_url": "https://images.unsplash.com/photo-1615485736894-a2d2e6d4cd9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "bottle_id": "B0020",
+        "name": "MindBottle 650ml",
+        "brand": "FocusStream",
+        "material": "Borosilicate Glass",
+        "volume_ml": 650,
+        "color": "Frosted White",
+        "price_usd": 17.80,
+        "image_url": "https://images.unsplash.com/photo-1585083969600-495ee7e3604b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "bottle_id": "B0021",
+        "name": "PulseHydrate 500ml",
+        "brand": "VitalSip",
+        "material": "Glass",
+        "volume_ml": 500,
+        "color": "Transparent Blue",
+        "price_usd": 13.25,
+        "image_url": "https://plus.unsplash.com/premium_photo-1684407616867-c48b9ec9539e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "bottle_id": "B0022",
+        "name": "TitanBottle 750ml",
+        "brand": "CoreSteel",
+        "material": "Stainless Steel",
+        "volume_ml": 750,
+        "color": "Charcoal",
+        "price_usd": 17.40,
+        "image_url": "https://images.unsplash.com/photo-1559839914-17aae19cec71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "bottle_id": "B0023",
+        "name": "SipCycle 600ml",
+        "brand": "EcoFlow",
+        "material": "Recycled Plastic",
+        "volume_ml": 600,
+        "color": "Green",
+        "price_usd": 10.10,
+        "image_url": "https://media.istockphoto.com/id/465980018/photo/bottle-of-russian-vodka.jpg?s=612x612&w=0&k=20&c=iYc_MKNY3McY0k1l1-Qh5_F5gDb2aiQwGjlycwWfnmE="
+    },
+    {
+        "bottle_id": "B0024",
+        "name": "WaveSteel 800ml",
+        "brand": "HydroTitan",
+        "material": "Stainless Steel",
+        "volume_ml": 800,
+        "color": "Polished Silver",
+        "price_usd": 18.90,
+        "image_url": "https://media.istockphoto.com/id/1028124720/photo/glass-beer-bottle.jpg?s=612x612&w=0&k=20&c=nqDI9RLBKR1lw-IFzl8TGr7n_2mlUFODHkgxuBnEIgA="
+    },
+    {
+        "bottle_id": "B0025",
+        "name": "ClarityGlass 650ml",
+        "brand": "ZenStream",
+        "material": "Glass",
+        "volume_ml": 650,
+        "color": "Clear",
+        "price_usd": 14.85,
+        "image_url": "https://media.istockphoto.com/id/495357936/photo/empy-liquor-bottle-on-a-white-background.jpg?s=612x612&w=0&k=20&c=PnQq2u5MMDp0bVMCtS6sR4revaOdvoq02Ih5nfT0VrM="
+    },
+    {
+        "bottle_id": "B0026",
+        "name": "AuroraBottle 700ml",
+        "brand": "GlowHydrate",
+        "material": "Plastic",
+        "volume_ml": 700,
+        "color": "Purple",
+        "price_usd": 11.60,
+        "image_url": "https://t4.ftcdn.net/jpg/02/14/39/53/240_F_214395346_2GrgCaw9rrMAkeSNnjFOmXBIJjhQ7A6z.jpg"
+    },
+    {
+        "bottle_id": "B0027",
+        "name": "QuickFlow 500ml",
+        "brand": "FastSip",
+        "material": "Aluminum",
+        "volume_ml": 500,
+        "color": "Crimson",
+        "price_usd": 15.10,
+        "image_url": "https://t3.ftcdn.net/jpg/01/90/30/08/240_F_190300850_yQHwOI0qRauIlAnfU3iCd4x3Vpnuzi6n.jpg"
+    },
+    {
+        "bottle_id": "B0028",
+        "name": "SkyBottle 950ml",
+        "brand": "PureStream",
+        "material": "Plastic",
+        "volume_ml": 950,
+        "color": "Sky Blue",
+        "price_usd": 12.99,
+        "image_url": "https://t3.ftcdn.net/jpg/06/19/01/24/240_F_619012449_2EbAiG30mFgliyxsJv52IGAw5YT9Lvdb.jpg"
+    },
+    {
+        "bottle_id": "B0029",
+        "name": "NovaDrop 600ml",
+        "brand": "LunaHydro",
+        "material": "Glass",
+        "volume_ml": 600,
+        "color": "Frosted Teal",
+        "price_usd": 13.45,
+        "image_url": "https://t4.ftcdn.net/jpg/01/33/83/33/240_F_133833399_TCYUYz6tgE8rPcB2MCLsAHCi8TtfnH76.jpg"
+    },
+    {
+        "bottle_id": "B0030",
+        "name": "ThermX 850ml",
+        "brand": "HeatSync",
+        "material": "Stainless Steel",
+        "volume_ml": 850,
+        "color": "Steel Gray",
+        "price_usd": 20.25,
+        "image_url": "https://t4.ftcdn.net/jpg/02/76/20/37/240_F_276203750_eG3BA7eJ33QG3LmG6rpEc6HrnZy7IIdm.jpg"
+    },
+    {
+        "bottle_id": "B0031",
+        "name": "ZenThermo 600ml",
+        "brand": "CalmHydrate",
+        "material": "Glass",
+        "volume_ml": 600,
+        "color": "Frosted Amber",
+        "price_usd": 15.25,
+        "image_url": "https://t3.ftcdn.net/jpg/01/75/37/84/240_F_175378457_ml742y5czWP6tRzeGJx9aFjVuIWlIGeu.jpg"
+    },
+    {
+        "bottle_id": "B0032",
+        "name": "SteelEdge 750ml",
+        "brand": "ForgeFlow",
+        "material": "Stainless Steel",
+        "volume_ml": 750,
+        "color": "Slate Gray",
+        "price_usd": 17.60,
+        "image_url": "https://t4.ftcdn.net/jpg/09/47/49/97/240_F_947499717_9lckJhcymNhGe9Bh76cXrlcBwBy7G8BB.jpg"
+    },
+    {
+        "bottle_id": "B0033",
+        "name": "PureSip 650ml",
+        "brand": "EcoStream",
+        "material": "Recycled Plastic",
+        "volume_ml": 650,
+        "color": "Aqua",
+        "price_usd": 10.50,
+        "image_url": "https://t4.ftcdn.net/jpg/02/42/27/63/240_F_242276398_PTibrm4FG2ik5gL9O5qg75n5dWluN9Qc.jpg"
+    },
+    {
+        "bottle_id": "B0034",
+        "name": "FlashBottle 500ml",
+        "brand": "QuickHydro",
+        "material": "Aluminum",
+        "volume_ml": 500,
+        "color": "Electric Blue",
+        "price_usd": 13.75,
+        "image_url": "https://t3.ftcdn.net/jpg/02/85/79/28/240_F_285792816_8bg5AdBOKPyShSomZBolaBgoi5Wbtdhs.jpg"
+    },
+    {
+        "bottle_id": "B0035",
+        "name": "CrystalQuench 800ml",
+        "brand": "ClearHydrate",
+        "material": "Glass",
+        "volume_ml": 800,
+        "color": "Transparent",
+        "price_usd": 16.99,
+        "image_url": "https://t4.ftcdn.net/jpg/01/78/80/37/240_F_178803762_qpn1wlJphGc6TUhhApIMTdtqO5vQLf51.jpg"
+    },
+    {
+        "bottle_id": "B0036",
+        "name": "NatureSip 700ml",
+        "brand": "EarthStream",
+        "material": "Plastic",
+        "volume_ml": 700,
+        "color": "Olive",
+        "price_usd": 11.40,
+        "image_url": "https://t3.ftcdn.net/jpg/02/99/07/30/240_F_299073036_ggnTucrbJd4YUKmkuvPlYMsHiO6SlWlH.jpg"
+    },
+    {
+        "bottle_id": "B0037",
+        "name": "BoldBottle 950ml",
+        "brand": "HydroBold",
+        "material": "Stainless Steel",
+        "volume_ml": 950,
+        "color": "Black",
+        "price_usd": 19.90,
+        "image_url": "https://t4.ftcdn.net/jpg/02/46/60/49/240_F_246604986_V5vifhHaMmtYfs8JrrPgU5BAueKEIYCd.jpg"
+    },
+    {
+        "bottle_id": "B0038",
+        "name": "GlowSip 600ml",
+        "brand": "LumaFlow",
+        "material": "Glass",
+        "volume_ml": 600,
+        "color": "Iridescent",
+        "price_usd": 15.85,
+        "image_url": "https://t4.ftcdn.net/jpg/05/27/83/59/240_F_527835962_g65XrW4L8UbuU1x4u0Q8ADk2FaoPEeau.jpg"
+    },
+    {
+        "bottle_id": "B0039",
+        "name": "SkyHydrate 1000ml",
+        "brand": "HighStream",
+        "material": "Plastic",
+        "volume_ml": 1000,
+        "color": "Sky Blue",
+        "price_usd": 12.30,
+        "image_url": "https://t3.ftcdn.net/jpg/05/94/26/38/240_F_594263801_ZGHbZzm7rJSjsmOW6XTnXoiHC183Hr2O.jpg"
+    },
+    {
+        "bottle_id": "B0040",
+        "name": "SteelZen 850ml",
+        "brand": "TranquilTitan",
+        "material": "Stainless Steel",
+        "volume_ml": 850,
+        "color": "Matte Silver",
+        "price_usd": 18.45,
+        "image_url": "https://t4.ftcdn.net/jpg/06/20/19/75/240_F_620197508_B3CTxiz2FnyVeVJ9gxoP2q1q1RlbRd1P.jpg"
+    }
+]
